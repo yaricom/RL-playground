@@ -1,5 +1,5 @@
 # RL-playground
-In this repository some of my experiments with Reinforcement Learning based on [OpenAi Gym ToolKit](https://gym.openai.com)
+In this repository some of my experiments with Reinforcement Learning algorithms based on [OpenAi Gym ToolKit](https://gym.openai.com)
 
 ## Overview
 Packages:
